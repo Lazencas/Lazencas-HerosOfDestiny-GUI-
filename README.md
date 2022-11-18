@@ -1,5 +1,5 @@
 # Lazencas-HerosOfDestiny-GUI-
-## 예전에 자바로 만들었던 카드플레이 방식의 RPG 스타일 게임 HerosOfDestiny의 CLI환경을 GUI환경으로 만들어 봤었다. 이때 당시 이미지 가공하는데에 많은 시간이 소모됬고, 해당 게임의 플레이 방식을 친절하게 알려주는 튜토리얼을 작성하는것과 쓰레드를 제어하는 것이 많이 힘들었던게 기억난다.
+## 예전에 자바로 만들었던 카드플레이 방식의 RPG 스타일 게임 HerosOfDestiny의 CLI환경을 GUI환경으로 만들어 봤었다. 이때 당시 이미지 가공하는데에 많은 시간이 소모됬고, 해당 게임의 플레이 방식을 친절하게 알려주는 튜토리얼을 작성하는것이 많이 힘들었던게 기억난다.
 ## 게임의 이미지와 플레이 방식은 Mega Crit Games개발사의 slay the spire라는 게임을 많이 참조 했다.
 ### 아래는 게임플레이 화면.
 ![image](https://user-images.githubusercontent.com/57083072/201697849-801ca018-46f8-43e7-9ed2-397f41b331ea.png)
